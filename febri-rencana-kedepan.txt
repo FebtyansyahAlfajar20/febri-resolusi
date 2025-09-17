@@ -1,0 +1,6 @@
+rencana belajar kedepan
+- java script 
+  * ES6
+  * Framework Javascript
+- HTML
+- CSS
