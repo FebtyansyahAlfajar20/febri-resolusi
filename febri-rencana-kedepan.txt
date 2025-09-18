@@ -2,7 +2,9 @@ rencana belajar kedepan
 - java script 
   * ES6
   * Framework Javascript
-- Stuktur Data Dasar
+    # angular
+    # react
 - PHP Frameworks
+  # laravel
 - HTML
 - CSS
